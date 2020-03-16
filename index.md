@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Trackalories policies webpage
 
-You can use the [editor on GitHub](https://github.com/juanisbn/trackalories/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Our policies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our application needs the camera permission for taking pictures of your foods and sending them to our prediction model, a model hosted and mantained by IBM. This model only performs a prediction and doesn't store the data you could send on a photo.
 
 ```markdown
 Syntax highlighted code block
